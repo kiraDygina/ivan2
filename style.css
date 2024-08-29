@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&display=swap');
+body {
+    font-family: "Handjet", sans-serif;
+    background-color: rgb(173, 255, 47, 0.6);
+}
+h1 {
+text-align: center;
+color: green;
+}
+.car1{width: 100px;float: right;}
+a{
+text-decoration: none;
+color: green;
+font-weight: 900;
+border: 1px inset black;
+background-color: white;
+border-radius: 10px;
+padding: 10px;
+}
